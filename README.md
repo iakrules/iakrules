@@ -17,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iakrules&show_icons=true&theme=merko&title_color=0645AD&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="iakrules" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iakrules&show_icons=true&theme=drakula&title_color=0645AD&text_color=ffffff&hide_border=true&locale=en" alt="iakrules" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iakrules&show_icons=true&theme=dracula&title_color=0645AD&text_color=ffffff&hide_border=true&locale=en" alt="iakrules" /></p>
