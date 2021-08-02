@@ -1,11 +1,9 @@
 <h1 align="center">Heyo, I'm Ishaan!</h1>
 <h3 align="center">I'm an esports enthusiast working towards a Bachelor's degree focused in Engineering from Rutgers University.</h3>
 
-<p align="left"> <a href="https://twitter.com/iakrules" target="blank"><img src="https://img.shields.io/twitter/follow/iakrules?logo=twitter&style=for-the-badge" alt="iakrules" /></a> </p>
-
 - Currently Working on: [Rutgers Esports Discord bot](https://github.com/rutgersesports/discord-bot)
 
-- and: [Rutgers Esports Website](https://github.com/rutgersesports/website)
+-                  and: [Rutgers Esports Website](https://github.com/rutgersesports/website)
 
 - Contact Info: **iakrules@gmail.com**
 
