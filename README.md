@@ -7,8 +7,8 @@
 
 <h3 align="left">Feel free to reach out/check out my socials!</h3>
 <p align="left">
-<a href="https://twitter.com/iakrules" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iakrules" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ishaanak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishaanak" height="30" width="40" /></a>
+<a href="https://twitter.com/iakrules" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iakrules" height="30" width="40" /></a>
 <a href="https://instagram.com/ishaan.ak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishaan.ak" height="30" width="40" /></a>
 </p>
 
