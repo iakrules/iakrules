@@ -3,7 +3,7 @@
 
 - Currently Working on: [Rutgers Esports Discord bot](https://github.com/rutgersesports/discord-bot)
 
--                  and: [Rutgers Esports Website](https://github.com/rutgersesports/website)
+- and: [Rutgers Esports Website](https://github.com/rutgersesports/website)
 
 - Contact Info: **iakrules@gmail.com**
 
